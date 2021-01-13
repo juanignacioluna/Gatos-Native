@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
   logo:{
     marginTop: 20,
     width: '100%',
-    height: 400,
+    height: 200,
   },
 
   botonTxt:{
